@@ -1,11 +1,30 @@
-**Simple Yoga**
+# 🧘‍♀️ Simple Yoga
 
-Clone the repository (if not already cloned): git clone https://github.com/lizzieting/ui-final-project.git
+A web application guiding users through basic yoga flows at home. Built as a collaborative final project for COMS 4170 User Interface Design at Columbia University.
 
-Navigate to the project directory: cd "HW10 Final" 
+---
 
-Install dependencies: pip install -r requirements.txt
+## Getting Started
 
-Run the server: python server.py  (example of how your command line should look: yourmacbookname HW10 Final % python server.py)
+Follow the steps below to run the application locally:
 
-Open your browser and go to: http://127.0.0.1:5001
+### 1. Clone the Repository
+```bash
+git clone https://github.com/jdudlak/simple-yoga.git
+```
+### 2. Navigate to the Project Directory
+```bash
+cd "HW10 Final"
+```
+### 3. Install dependencies 
+```bash
+pip install -r requirements.txt
+```
+### 4. Start server
+```bash
+python server.py
+```
+### 5. Open application in your browser
+Visit: http://127.0.0.1:5001
+### Contributors 
+Julia Dudlak, Maria Janoo, Elizabeth Ting, Eliza Korzilius
